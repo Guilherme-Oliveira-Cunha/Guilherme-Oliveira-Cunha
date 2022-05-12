@@ -1,6 +1,7 @@
 
 <div>
 <h2>Olá, seja bem vindo(a)!</h2> 
+<h1>Me chamo Guilherme Oliveira ✌</h1>
 <img src="https://github.com/Guilherme-Oliveira-Cunha/Guilherme-Oliveira-Cunha/blob/main/anime.gif" style="width:150px" />  
 </div>
 
@@ -38,11 +39,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Oliveira-Cunha&theme=vue">
 </div>
 
-<br><br>
+<br><br><br>
 
-<img src="https://github.com/Guilherme-Oliveira-Cunha/Guilherme-Oliveira-Cunha/blob/main/codando.gif" style="width:300px"/>
+<h3>Já que visitou meu perfil tenho presente para você 👏👏👏.</h3>
 
-<h4>Já que visitou meu perfil tenho presente para você</h4>
+<img src="https://github.com/Guilherme-Oliveira-Cunha/Guilherme-Oliveira-Cunha/blob/main/img.gif" style="width:200px"/>
 
 
 

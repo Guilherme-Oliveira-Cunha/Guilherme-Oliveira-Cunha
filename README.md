@@ -1,6 +1,5 @@
 
-<h1>Olá, seja bem vindo(a)!</h1>
-
+<h1>Olá, seja bem vindo(a)!</h1> 
 
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/peguimasid)](https://github.com/peguimasid)
@@ -29,12 +28,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Oliveira-Cunha&show_icons=true&title_color=03bb85&icon_color=03bb85&text_color=03bb85&bg_color=fff&count_private=true"/>
 </div>
 
-<br><br>
 
 <h3>Estatísticas de sequência de commits.</h3> <br>
 <div> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Oliveira-Cunha&theme=vue">
 </div>
+
+<br><br>
+
+![codando](https://github.com/Guilherme-Oliveira-Cunha/Guilherme-Oliveira-Cunha/blob/main/codando.gif)
 
 
 

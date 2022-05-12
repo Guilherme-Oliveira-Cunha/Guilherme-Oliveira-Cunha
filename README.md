@@ -1,13 +1,17 @@
 
-<h1>Olá, seja bem vindo(a)!</h1> 
+<div>
+<h2>Olá, seja bem vindo(a)!</h2> 
+<img src="https://github.com/Guilherme-Oliveira-Cunha/Guilherme-Oliveira-Cunha/blob/main/anime.gif" style="width:150px" />  
+</div>
 
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/peguimasid)](https://github.com/peguimasid)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilhermo-masid-494677b8/)](https://www.linkedin.com/in/guilhermo-masid-494677b8/)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCTF5MfUsa-9dFCOHFTA9xzw)](https://www.youtube.com/channel/UCTF5MfUsa-9dFCOHFTA9xzw)
-
-
-
+<div>
+  <a href="https://web.whatsapp.com/send?phone=5532987158659 target=_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a herf="mailto:guilhermejf17@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+ </div>
 
 <h3>Tecnologias que estou aprendendo a usar!</h3> <br>
 <div>
@@ -36,7 +40,11 @@
 
 <br><br>
 
-![codando](https://github.com/Guilherme-Oliveira-Cunha/Guilherme-Oliveira-Cunha/blob/main/codando.gif)
+<img src="https://github.com/Guilherme-Oliveira-Cunha/Guilherme-Oliveira-Cunha/blob/main/codando.gif" style="width:300px"/>
+
+<h4>Já que visitou meu perfil tenho presente para você</h4>
+
+
 
 
 

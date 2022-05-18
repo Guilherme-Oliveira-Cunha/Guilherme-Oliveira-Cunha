@@ -39,11 +39,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Oliveira-Cunha&theme=vue">
 </div>
 
-<br><br><br>
 
-<h3>Já que visitou meu perfil tenho presente para você 👏👏👏.</h3>
-
-<img src="https://github.com/Guilherme-Oliveira-Cunha/Guilherme-Oliveira-Cunha/blob/main/img.gif" style="width:200px"/>
 
 
 

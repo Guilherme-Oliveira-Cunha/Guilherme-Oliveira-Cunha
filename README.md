@@ -2,18 +2,13 @@
 <div>
 <h2>Olá, seja bem vindo(a)!</h2> 
   <p> - Desenvolvedor Backend Python WEB com Django. </p>
-  <p> - Estudante de ADS. </p>
-  
+  <p> - Estudante de ADS. </p> 
 </div>
 
-<div>
-  <a href="https://web.whatsapp.com/send?phone=5532987158659 target=_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a herf="mailto:guilhermejf17@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
- </div>
+<div> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Oliveira-Cunha&show_icons=true&title_color=03bb85&icon_color=03bb85text_color=03bb85&bg_color=fff&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Oliveira-Cunha&show_icons=true&title_color=03bb85&icon_color=03bb85&text_color=03bb85&bg_color=fff&count_private=true"/>
+</div>
 
 <h3>Tecnologias que estou aprendendo a usar!</h3> <br>
 <div>
@@ -26,13 +21,16 @@
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
-<br><br>
+<div>
+  <h3> Contatos </h3>
+  <a href="https://web.whatsapp.com/send?phone=5532987158659 target=_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+  <a herf="mailto:guilhermejf17@hotmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+ </div>
 
-<div> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Oliveira-Cunha&show_icons=true&title_color=03bb85&icon_color=03bb85text_color=03bb85&bg_color=fff&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Oliveira-Cunha&show_icons=true&title_color=03bb85&icon_color=03bb85&text_color=03bb85&bg_color=fff&count_private=true"/>
-</div>
- 
 <h3>Estatísticas de sequência de commits.</h3> <br>
 <div> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Oliveira-Cunha&theme=vue">

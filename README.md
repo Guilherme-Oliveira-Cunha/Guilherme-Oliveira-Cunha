@@ -1,8 +1,7 @@
 
 <div>
 <h2>Olá, seja bem vindo(a)!</h2> 
-<h1>Me chamo Guilherme Oliveira ✌</h1>
-<img src="https://github.com/Guilherme-Oliveira-Cunha/Guilherme-Oliveira-Cunha/blob/main/anime.gif" style="width:150px" />  
+
 </div>
 
 <div>
@@ -34,6 +33,8 @@
 </div>
 
 
+ ![Snake animation](https://github.com/Guilherme-Oliveira-Cunha/Guilherme-Oliveira-Cunha/blob/output/github-contribution-grid-snake.svg)
+ 
 <h3>Estatísticas de sequência de commits.</h3> <br>
 <div> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Oliveira-Cunha&theme=vue">

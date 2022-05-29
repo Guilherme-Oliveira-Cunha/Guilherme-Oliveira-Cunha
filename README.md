@@ -1,7 +1,9 @@
 
 <div>
 <h2>Olá, seja bem vindo(a)!</h2> 
-
+  <p> - Desenvolvedor Backend Python WEB com Django. </p>
+  <p> - Estudante de ADS. </p>
+  
 </div>
 
 <div>
@@ -26,14 +28,10 @@
 
 <br><br>
 
-
 <div> 
   <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Oliveira-Cunha&show_icons=true&title_color=03bb85&icon_color=03bb85text_color=03bb85&bg_color=fff&count_private=true"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Oliveira-Cunha&show_icons=true&title_color=03bb85&icon_color=03bb85&text_color=03bb85&bg_color=fff&count_private=true"/>
 </div>
-
-
- ![Snake animation](https://github.com/Guilherme-Oliveira-Cunha/Guilherme-Oliveira-Cunha/blob/output/github-contribution-grid-snake.svg)
  
 <h3>Estatísticas de sequência de commits.</h3> <br>
 <div> 

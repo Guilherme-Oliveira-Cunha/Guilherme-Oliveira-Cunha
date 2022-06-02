@@ -1,16 +1,14 @@
 
-<div>
 <h2>Olá, seja bem vindo(a)!</h2> 
-  <p> - Desenvolvedor Backend Python WEB com Django. </p>
-  <p> - Estudante de ADS. </p> 
-</div>
+<p> >>> Desenvolvedor Backend Python WEB com Django. </p>
+<p> >>> Estudante de ADS. </p>   
 
 <div> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Oliveira-Cunha&show_icons=true&title_color=03bb85&icon_color=03bb85text_color=03bb85&bg_color=fff&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Oliveira-Cunha&show_icons=true&title_color=03bb85&icon_color=03bb85&text_color=03bb85&bg_color=fff&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Oliveira-Cunha&show_icons=true&title_color=FF0000icon_color=03bb85text_color=03bb85&bg_color=000000&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Oliveira-Cunha&show_icons=true&title_color=FF0000icon_color=03bb85&text_color=03bb85&bg_color=000000&count_private=true"/>
 </div>
 
-<h3>Tecnologias que estou aprendendo a usar!</h3> <br>
+<h2>Tecnologias que estou aprendendo a usar!</h2> <br>
 <div>
 <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> 
@@ -22,7 +20,7 @@
 </div>
 
 <div>
-  <h3> Contatos </h3>
+  <h2> Contatos </h2>
   <a href="https://web.whatsapp.com/send?phone=5532987158659 target=_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
@@ -31,10 +29,6 @@
   </a>
  </div>
 
-<h3>Estatísticas de sequência de commits.</h3> <br>
-<div> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guilherme-Oliveira-Cunha&theme=vue">
-</div>
 
 
 

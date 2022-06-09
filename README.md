@@ -8,8 +8,8 @@
 
 - 🚀 How to reach me **[ evanderinacio.com](https://www.evanderinacio.com)**
 
-- 👨‍🎓 I'm graduated in **Systems Analysis and Development**
-- 👨‍💻 I’m always studying `JavaScript`
+- 👨‍🎓 I'm graduated in **Sytems Analysis and Development**
+- 👨‍💻 I’m always studying `JavaScr
 
 
 - 👀 I’m interested in `ReactJS`

@@ -6,13 +6,15 @@
 
 ## &nbsp; <img src="images/oculos.gif " width="30" align="center"> &nbsp;About me
 
-- 🚀 How to reach me **[ evanderinacio.com](https://www.evanderinacio.com)**
+- 🚀 Você pode me achar por aqui **[Guilherme Oliveira](https://www.linkedin.com/in/guilherme-oliveira-python/)**
 
 - 👨‍🎓 Cursando  **Análise e Desenvolvimento de Sistemas**.
 
-- 📫 If you want to send a message. **gulhermejf17@hotmail.com**
+- 📫 Você pode me mandar uma mensagem **gulhermejf17@hotmail.com**
 
-<h2>Tecnologias que estou aprendendo a usar!</h2> <br>
+## Tecnologias que estou aprendendo a usar! ##
+
+<br>
 
 <div>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
@@ -23,16 +25,6 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
-
-<div>
-  <h2> Contatos </h2>
-  <a href="https://web.whatsapp.com/send?phone=5532987158659 target=_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-  </a>
-  <a herf="mailto:guilhermejf17@hotmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
- </div>
 
 <div> 
   <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Oliveira-Cunha&show_icons=true&title_color=FF0000icon_color=03bb85text_color=03bb85&bg_color=000000&count_private=true"/>

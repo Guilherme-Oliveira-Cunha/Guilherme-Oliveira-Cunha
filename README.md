@@ -8,13 +8,9 @@
 
 - 🚀 How to reach me **[ evanderinacio.com](https://www.evanderinacio.com)**
 
-- 👨‍🎓 I'm graduated in **Sytems Analysis and Development**
-- 👨‍💻 I’m always studying `JavaScr
+- 👨‍🎓 Cursando  **Análise e Desenvolvimento de Sistemas**.
 
-
-- 👀 I’m interested in `ReactJS`
-
-- 📫 If you want to send a message. **evander.20112@hotmail.com**
+- 📫 If you want to send a message. **gulhermejf17@hotmail.com**
 
 <h2>Tecnologias que estou aprendendo a usar!</h2> <br>
 

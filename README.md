@@ -1,18 +1,22 @@
 
-<img src="images/computer-illustration.png" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
+<img src="computador.gif" min-width="400px" max-width="450px" width="400px" align="right" alt="Computador">
 <h1 align="left">Olá <img src="https://github.com/EvanderInacio/EvanderInacio/blob/main/images/Earth.gif?raw=true" width="30">  seja bem-vindo(a)
 <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30">
 </h1>
 
-## &nbsp; <img src="images/oculos.gif " width="30" align="center"> &nbsp;About me
+<br>
+
+## Sobre Mim ##
 
 - 🚀 Você pode me achar por aqui **[Guilherme Oliveira](https://www.linkedin.com/in/guilherme-oliveira-python/)**
 
 - 👨‍🎓 Cursando  **Análise e Desenvolvimento de Sistemas**.
 
-- 📫 Você pode me mandar uma mensagem **gulhermejf17@hotmail.com**
+- 📫 Você pode me mandar uma mensagem em **gulhermejf17@hotmail.com**
 
-## Tecnologias que estou aprendendo a usar! ##
+<br>
+
+## Tecnologias que estou aprendendo a usar ##
 
 <br>
 
@@ -27,8 +31,8 @@
 </div>
 
 <div> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Oliveira-Cunha&show_icons=true&title_color=FF0000icon_color=03bb85text_color=03bb85&bg_color=000000&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Oliveira-Cunha&show_icons=true&title_color=FF0000icon_color=03bb85&text_color=03bb85&bg_color=000000&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Oliveira-Cunha&show_icons=true&title_color=808080icon_color=03bb85text_color=000000&bg_color=FFFFFF&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Oliveira-Cunha&show_icons=true&title_color=FF0000icon_color=03bb85&text_color=03bb85&bg_color=FFFFFF&count_private=true"/>
 </div>
 
 

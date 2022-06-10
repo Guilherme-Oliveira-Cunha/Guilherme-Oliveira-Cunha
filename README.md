@@ -9,8 +9,11 @@
 ## Sobre Mim ##
 
 -  🧑‍💻 Desenvolvedor Back-end Python/Django
+
 - 👨‍🎓 Cursando  **Análise e Desenvolvimento de Sistemas**.
+
 - 📫 Você pode me mandar uma mensagem em **gulhermejf17@hotmail.com**
+
 - 🚀 Você pode me achar por aqui **[Guilherme Oliveira](https://www.linkedin.com/in/guilherme-oliveira-python/)**
 
 <br>

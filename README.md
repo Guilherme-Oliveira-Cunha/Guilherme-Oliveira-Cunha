@@ -39,11 +39,7 @@
 
 
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/Guilherme-Oliveira-Cunha/Guilherme-Oliveira-Cunha/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+
 
 
 

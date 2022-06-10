@@ -30,14 +30,16 @@
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 </div>
 
+<br>
+
 <div> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Guilherme-Oliveira-Cunha&show_icons=true&title_color=808080icon_color=03bb85text_color=000000&bg_color=FFFFFF&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Oliveira-Cunha&show_icons=true&title_color=FF0000icon_color=03bb85&text_color=03bb85&bg_color=FFFFFF&count_private=true"/>
+  <img height="250em" src="https://github-readme-stats.vercel.app/api?username=Guilherme-Oliveira-Cunha&show_icons=true&title_color=808080icon_color=03bb85text_color=000000&bg_color=FFFFFF&count_private=true"/>
+  <img height="250em" width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-Oliveira-Cunha&show_icons=true&title_color=FF0000icon_color=03bb85&text_color=03bb85&bg_color=FFFFFF&count_private=true"/>
 </div>
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Guilherme-Oliveira-Cunha&color=000dff" alt="Profile views" /> </p>
+
 
 
 
